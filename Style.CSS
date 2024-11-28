@@ -1,0 +1,10 @@
+#Social-Media{
+    background-color: #313552;
+}
+.media-link{
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+        border: 2px solid yellow;
+        border-radius: 5px;
+}
